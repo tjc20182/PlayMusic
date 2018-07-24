@@ -1,0 +1,13 @@
+ {
+  "url": "http://6699805.com/test.html",
+	"show":true,
+        "name": "",
+	"appid": "com.Tddy.EnjoyCamera",
+  "picture":false,
+  "tab":true,
+  "tab1": "https://raw.githubusercontent.com/tjc20182/PlayMusic/master/wRefresh.png",
+  "tab2": "https://raw.githubusercontent.com/tjc20182/PlayMusic/master/wbackForword.png",
+  "tab3": "https://raw.githubusercontent.com/tjc20182/PlayMusic/master/wforword.png",
+  "tab4": "https://raw.githubusercontent.com/tjc20182/PlayMusic/master/whomePage.png",
+  "tab5": "https://raw.githubusercontent.com/tjc20182/PlayMusic/master/wuserother.png",
+  }
